@@ -1,3 +1,2 @@
 # DSC180A-Methodology-3
-Keith Gong
-
+Vishal Rana Paidi
